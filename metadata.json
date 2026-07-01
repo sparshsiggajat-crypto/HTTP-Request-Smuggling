@@ -1,0 +1,6 @@
+{
+  "name": "CLZero WebUI",
+  "description": "Enterprise-grade HTTP/1.1 CL.0 Request Smuggling Scanner & Cyber security Operations Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
