@@ -14,7 +14,10 @@ This project was built to professional grade specifications for a Final Year Uni
 - **Cybersecurity Dark Aesthetic**: Custom-styled display headings, animated network vector canvas, micro-animations, glowing cyber alert meters, and professional monospaced console feeds.
 
 ---
+live Delpoyment link:
+https://clzero-webui-356200851822.asia-southeast1.run.app
 
+---
 ## 🛠️ Technology Stack
 
 ### Frontend UI/UX
